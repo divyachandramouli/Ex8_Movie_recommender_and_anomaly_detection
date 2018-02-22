@@ -4,7 +4,7 @@ This programming exercise was done as part of Coursera's Machine Learning Course
 
 ## Detect failing servers on a network (Anomaly Detection)
 
-* Implemented the anomaly detection algorithm and applied it to detect anomalous behavior on server computers on a dataset where each example has 11 features capturing the properties of computer servers
+* Implemented the anomaly detection algorithm and applied it to detect anomalous behavior of server computers on a dataset where each example has 11 features capturing the properties of computer servers
 * Fitted a Gaussian distribution model to the data, implemented an algorithm to select the best threshold based on the F1 score of the cross validation set 
 * Detected anomalies based on the threshold 
 
